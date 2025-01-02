@@ -24,7 +24,7 @@ const Navbar = () => {
         <FiMenu />
       </div>
       <span className="logo">
-        <Link to="/">SHOEKART</Link>
+        <Link to="/">SHOEHIVE</Link>
         {/* <img src={logo} alt="LOGO" /> */}
       </span>
       <div className={isOpen ? "nav-links-md" : "nav-links"}>

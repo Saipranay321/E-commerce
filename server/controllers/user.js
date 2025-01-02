@@ -191,7 +191,7 @@ const forgetPassword = asyncErrorHandler(async (req, res, next) => {
         <p>Please Note: This link is valid for 5 minutes.</p>
         <p>If you didn't request a password reset, please ignore this email or reply to let us know.</p>
         <p>Thanks</p>
-        <p>Team Shoekart</p>
+        <p>Team SHOEHIVE</p>
       </div>
     </div>
   </div>

@@ -45,7 +45,7 @@ const ProductForm = ({
         // Create a new FormData for the Cloudinary API
         formData = new FormData();
         formData.append("file", blob, "photo.png");
-        formData.append("upload_preset", "shoekart");
+        formData.append("upload_preset", "SHOEHIVE");
 
         const cloudinaryResponse = await axios.post(
           "https://api.cloudinary.com/v1_1/deohymauz/image/upload",
