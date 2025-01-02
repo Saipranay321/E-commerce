@@ -75,7 +75,7 @@ const ContactForm = () => {
             alt="profile-photo"
           />
           <p>
-            <span>Sumil Suthar</span>Software Engineer <br />
+            <span>sathvik</span>Software Engineer <br />
             sumil.suthar@gmail.com
           </p>
         </div>
@@ -85,7 +85,7 @@ const ContactForm = () => {
             alt="profile-photo"
           />
           <p>
-            <span>Sumil Suthar</span>Software Engineer <br />
+            <span>sathvik</span>Software Engineer <br />
             sumil.suthar@gmail.com
           </p>
         </div>
@@ -95,7 +95,7 @@ const ContactForm = () => {
             alt="profile-photo"
           />
           <p>
-            <span>Sumil Suthar</span>Software Engineer <br />
+            <span>sathvik</span>Software Engineer <br />
             sumil.suthar@gmail.com
           </p>
         </div>
@@ -105,7 +105,7 @@ const ContactForm = () => {
             alt="profile-photo"
           />
           <p>
-            <span>Sumil Suthar</span>Software Engineer <br />
+            <span>sathvik</span>Software Engineer <br />
             sumil.suthar@gmail.com
           </p>
         </div>
